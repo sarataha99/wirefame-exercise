@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css Demo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="reset.css">
+
+</head>
+<body>
+    <div class="continer">
+        
+    </div>
+    <header>
+        <h1>
+<h1>
+    Nav item1   Nav item2   Nav item3   Nav item4
+</h1>
+        </h1><nav>
+<ul>
+  
+        </nav>
+<main>
+    <section id='header image'>
+        <article class="card">
+            
+            <img src="https://via.placeholder.com/200x70",alt ='placeholder image'/>
+        </article>
+    <section id='hero-image'>
+        <article class="card">
+            <img src="https://via.placeholder.com/960x450",alt ='placeholder image'/>
+        </article>
+        <section id='sub1-image'>
+            <article class="card">
+                <img src="https://via.placeholder.com/300x375",alt ='placeholder image'/>
+            </article>
+            <section id='sub2-image'>
+                <article class="card">
+                    <img src="https://via.placeholder.com/300x375",alt ='placeholder image'/>
+                </article>
+                <section id='sub3-image'>
+                    <article class="card">
+                        <img src="https://via.placeholder.com/300x375",alt ='placeholder image'/>
+                    </article>
+
+                    <section id='sub image'>
+                        <article class="card">
+                            <p>
+                                <h1>
+                                    featured section heading
+                                </h1>
+                                <h3>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                </h3>
+                            </p>
+                            <img src="https://via.placeholder.com/480x400",alt ='placeholder image'/>
+                        </article>
+</main>
+    </header>
+    
+</body>
+</html>
